@@ -6,9 +6,6 @@ public class Emp  {
 	private String phone;
 	private int empId;
 	
-	
-	
-	
 	public Emp(String name, String phone, int empId) {
 		super();
 		this.name = name;

@@ -9,6 +9,7 @@ public class Concurrunt {
 
     public static void main(String[] args) {
         Concurrunt concurrunt=new Concurrunt();
+        System.out.println("this is testing");
         //concurrunt.getData().toString();
         System.out.println(concurrunt.getData());
         //System.out.println(" this is best way coding ");
